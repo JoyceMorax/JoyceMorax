@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoyceMorax, a postgraduate student in Curtin University in Australia. 
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning python & date structure & English(yes, my English is poor so I need promote it)
+- 🌱 I’m currently learning python & date structure & English(my English is so poor...so in my English context may have different grammar mistakes)
 - 💞️ I’m looking to collaborate on promoting my coding ability
 - 👉 I will write some guide about RUN guide in my homepage including AUSTRALIA CANADA & JAPAN
   
